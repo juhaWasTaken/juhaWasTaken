@@ -15,3 +15,6 @@ Checkout my [Website](https://www.carlosgav.com/es), [LinkedIn](www.linkedin.com
 
 ---
 
+<p align="center">
+<img src="/LogoNegativo.jpg" alt="Carlos Gav Logo" width="100">
+</p>
