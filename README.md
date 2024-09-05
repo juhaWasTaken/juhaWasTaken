@@ -11,7 +11,7 @@ Mexican Frontend Developer - Currently working on my app **The Record**
 
 I like to code things and see how they can change people's lives.
 
-Checkout my [Website](https://www.carlosgav.com/es), [LinkedIn](www.linkedin.com/in/carlos-gallaga) and [Twitter](https://twitter.com/juhawontmiss) 
+Checkout my [Website](https://www.carlosgav.com/es), [LinkedIn](https://www.linkedin.com/in/carlos-gallaga) and [Twitter](https://twitter.com/juhawontmiss) 
 
 ---
 
