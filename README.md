@@ -7,7 +7,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-Mexican Frontend Developer - Currently working on my app **The Record**
+Mexican Frontend Developer & Graphic Designer
 
 I like to code things and see how they can change people's lives.
 
@@ -15,6 +15,4 @@ Checkout my [Website](https://www.carlosgav.com/es), [LinkedIn](https://www.link
 
 ---
 
-<p align="center">
-<img src="/LogoNegativo.jpg" alt="Carlos Gav Logo" width="100">
-</p>
+
